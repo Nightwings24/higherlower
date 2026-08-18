@@ -15,7 +15,7 @@ overrides.json format (create it manually as needed), keyed by word:
 }
 Any field present in an override replaces the auto-fetched value.
 Words present ONLY in overrides.json (not in input_words.json /
-trends_scores.json) are added as fully manual entries — this is how you
+trends_scores.json) are added as fully manual entries - this is how you
 hand-add a new word without rerunning the pipeline.
 """
 import json

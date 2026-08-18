@@ -1,6 +1,6 @@
 # Higher or Lower: Space Edition
 
-A "Higher or Lower" guessing game — like higherlowergame.com — where you compare
+A "Higher or Lower" guessing game - like higherlowergame.com - where you compare
 Google search popularity between astronomy terms (and, once you add them,
 Indian internet-brainrot terms). See `PROMPT.md` for the full design spec.
 
@@ -32,13 +32,13 @@ python3 scripts/build_words.py      # merges everything -> data/words.json
 ```
 
 Each script caches its raw API responses under `data/cache/`, so if a run
-gets interrupted or rate-limited, just rerun the same command — completed
+gets interrupted or rate-limited, just rerun the same command - completed
 words are skipped.
 
 ## Adding your own brainrot words
 
 Add a `"brainrot"` array to `data/input_words.json` alongside `"astronomy"`.
-Brainrot words are **not** auto-fetched — supply their score and image
+Brainrot words are **not** auto-fetched - supply their score and image
 directly via `data/overrides.json`:
 
 ```json
@@ -52,7 +52,7 @@ directly via `data/overrides.json`:
 ```
 
 Any word that appears only in `overrides.json` is added as a fully manual
-entry — you don't need to touch `input_words.json` or rerun the fetch
+entry - you don't need to touch `input_words.json` or rerun the fetch
 scripts. Then just rerun:
 
 ```bash
@@ -61,7 +61,7 @@ python3 scripts/build_words.py
 
 ## Fixing a specific word's image or score
 
-Add/edit its entry in `data/overrides.json` (same format as above — any
+Add/edit its entry in `data/overrides.json` (same format as above - any
 field you set there wins over the auto-fetched value) and rerun
 `build_words.py`. No need to redo the Trends/image fetch.
 

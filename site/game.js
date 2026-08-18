@@ -116,7 +116,7 @@
 
   function pickNext(exclude) {
     if (pool.length === 0) {
-      // Ran through every word this filter offers — reshuffle and keep going,
+      // Ran through every word this filter offers - reshuffle and keep going,
       // matching the "infinite questions" behavior of the reference game.
       const source = currentPoolSource().filter((w) => w.word !== (exclude && exclude.word));
       pool = shuffle(source.slice());
@@ -156,7 +156,7 @@
     rightName.textContent = rightWord.word;
     rightCaptionWord.textContent = leftWord.word;
     setAttribution(rightAttr, rightWord);
-    rightScore.textContent = "—";
+    rightScore.textContent = "-";
     rightScore.className = "big-number big-number--right";
     guessButtons.classList.remove("answered");
 
@@ -169,7 +169,7 @@
   // Our real number is a 0-100ish Google Trends relative-popularity index,
   // not an actual search-volume count (Trends doesn't expose real volume).
   // Scaled up here into a bigger, comma-formatted "dummy" number purely so
-  // it reads like a search-volume figure, at the user's request — the
+  // it reads like a search-volume figure, at the user's request - the
   // underlying comparison logic still uses the true, unscaled score.
   const DISPLAY_SCALE = 1000;
   function displayValue(n) {
@@ -229,7 +229,7 @@
     rightScore.className = "big-number big-number--right reveal " + (correct ? "correct" : "incorrect");
     animateCountUp(rightScore, displayValue(rightWord.score), 900);
 
-    if (tie) showToast("Equal signal — streak continues");
+    if (tie) showToast("Equal signal - streak continues");
 
     playTone(correct);
 
@@ -266,7 +266,7 @@
     overlayTitle.textContent = score === 0 ? "First contact lost" : "Streak broken";
     overlayBody.textContent =
       score === 0
-        ? "The very first call went the wrong way. Every run starts at zero — try again."
+        ? "The very first call went the wrong way. Every run starts at zero - try again."
         : "You called it right " + score + " time" + (score === 1 ? "" : "s") + " in a row before the signal flipped.";
     overlay.classList.add("show");
   }
@@ -302,7 +302,7 @@
     } else if (navigator.clipboard) {
       navigator.clipboard.writeText(text + " " + location.href).then(
         () => showToast("Score copied to clipboard"),
-        () => showToast("Couldn't copy — try manually")
+        () => showToast("Couldn't copy - try manually")
       );
     } else {
       showToast(text);
@@ -336,7 +336,7 @@
       osc.start(now);
       osc.stop(now + 0.4);
     } catch (e) {
-      /* audio unavailable — ignore */
+      /* audio unavailable - ignore */
     }
   }
 

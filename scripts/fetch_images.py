@@ -4,7 +4,7 @@ Fetch a representative image for each astronomy word via the Wikipedia
 REST API (page summary thumbnail). Words with no match, a disambiguation
 page, or no thumbnail are logged so they can be fixed via overrides.json.
 
-Brainrot-category words are skipped entirely — those images are supplied
+Brainrot-category words are skipped entirely - those images are supplied
 manually via overrides.json.
 """
 import json

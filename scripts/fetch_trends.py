@@ -108,7 +108,7 @@ def fetch_batch(pytrends, words):
             last_err = e
             wait = REQUEST_DELAY_SECONDS * attempt
             print(f"  batch failed (attempt {attempt}/{MAX_RETRIES}): {e} "
-                  f"— retrying in {wait}s", file=sys.stderr)
+                  f"- retrying in {wait}s", file=sys.stderr)
             time.sleep(wait)
     raise RuntimeError(f"batch permanently failed after {MAX_RETRIES} attempts: {last_err}")
 
