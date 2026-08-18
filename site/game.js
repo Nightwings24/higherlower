@@ -172,8 +172,33 @@
   // it reads like a search-volume figure, at the user's request — the
   // underlying comparison logic still uses the true, unscaled score.
   const DISPLAY_SCALE = 1000;
+  function displayValue(n) {
+    return Math.round(n * DISPLAY_SCALE);
+  }
   function formatScore(n) {
-    return Math.round(n * DISPLAY_SCALE).toLocaleString("en-US");
+    return displayValue(n).toLocaleString("en-US");
+  }
+
+  const prefersReducedMotion =
+    window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // Rolling counter: starts at 0 and accelerates up to the target number,
+  // like an odometer picking up speed, instead of just popping the value in.
+  function animateCountUp(el, target, duration) {
+    if (prefersReducedMotion || target === 0) {
+      el.textContent = target.toLocaleString("en-US");
+      return;
+    }
+    const start = performance.now();
+    function tick(now) {
+      const t = Math.min((now - start) / duration, 1);
+      const eased = t * t; // ease-in: slow start, speeds up toward the end
+      const current = Math.round(target * eased);
+      el.textContent = current.toLocaleString("en-US");
+      if (t < 1) requestAnimationFrame(tick);
+      else el.textContent = target.toLocaleString("en-US");
+    }
+    requestAnimationFrame(tick);
   }
 
   function resetVsCircle() {
@@ -200,8 +225,9 @@
     setTimeout(() => vsCircle.classList.remove("pop"), 260);
 
     guessButtons.classList.add("answered");
-    rightScore.textContent = formatScore(rightWord.score);
+    rightScore.textContent = "0";
     rightScore.className = "big-number big-number--right reveal " + (correct ? "correct" : "incorrect");
+    animateCountUp(rightScore, displayValue(rightWord.score), 900);
 
     if (tie) showToast("Equal signal — streak continues");
 
