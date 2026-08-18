@@ -1,0 +1,782 @@
+[
+  {
+    "word": "Aditya-L1",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Aditya_L1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Albert Einstein",
+    "category": "astronomy",
+    "score": 1.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/3840px-Albert_Einstein_Head_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Aldebaran",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Taurus_constellation_map.svg/330px-Taurus_constellation_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Alpha Centauri",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/The_sky_around_Alpha_Centauri_and_Proxima_Centauri_%28eso1629i%29.jpg/3840px-The_sky_around_Alpha_Centauri_and_Proxima_Centauri_%28eso1629i%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Andromeda Galaxy",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Andromeda_Galaxy_2025.png/3840px-Andromeda_Galaxy_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Antares",
+    "category": "astronomy",
+    "score": 0.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Scorpius_constellation_map.svg/330px-Scorpius_constellation_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Apollo 11",
+    "category": "astronomy",
+    "score": 1.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/3840px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Arcturus",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bo%C3%B6tes_IAU.svg/960px-Bo%C3%B6tes_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Artemis",
+    "category": "astronomy",
+    "score": 100.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Diane_de_Versailles_-_Mus%C3%A9e_du_Louvre_AGER_Ma_589.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Asteroid Belt",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Asteroid_belt_positions-en.png/3840px-Asteroid_belt_positions-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Astronaut",
+    "category": "astronomy",
+    "score": 5.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Aurora Borealis",
+    "category": "astronomy",
+    "score": 5.4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Betelgeuse",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orion_constellation_map.svg/330px-Orion_constellation_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Big Bang",
+    "category": "astronomy",
+    "score": 4.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Big Dipper",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ursa_Major_constellation_detail_map.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Black Hole",
+    "category": "astronomy",
+    "score": 3.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/3840px-Black_hole_-_Messier_87_crop_max_res.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Blue Origin",
+    "category": "astronomy",
+    "score": 3.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg"
+  },
+  {
+    "word": "Callisto",
+    "category": "astronomy",
+    "score": 0.7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Callisto_VGR2_C2060635_OGB.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Canopus",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Canopus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Carl Sagan",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Cassini",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Cassiopeia",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cassiopeia_IAU.svg/960px-Cassiopeia_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Ceres",
+    "category": "astronomy",
+    "score": 1.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Chandrayaan-1",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/CY1_2007_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Chandrayaan-2",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GSLV_Mk_III_M1%2C_Chandrayaan-2_-_Vikram_lander_mounted_on_top_of_orbiter.jpg/3840px-GSLV_Mk_III_M1%2C_Chandrayaan-2_-_Vikram_lander_mounted_on_top_of_orbiter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Chandrayaan-3",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chandrayaan-3_%E2%80%93_Image_of_Vikram_lander_on_lunar_surface_taken_by_Pragyan_rover_navcam_at_1104_IST%2C_30_August_2023_from_15_meters_away_%28with_text%29.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Comet",
+    "category": "astronomy",
+    "score": 8.9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Comet_Hale-Bopp_1995O1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Curiosity Rover",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/3840px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Dark Energy",
+    "category": "astronomy",
+    "score": 1.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/WMAP_2012.png/3840px-WMAP_2012.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Dark Matter",
+    "category": "astronomy",
+    "score": 0.8,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/WMAP_2012.png/3840px-WMAP_2012.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Deimos",
+    "category": "astronomy",
+    "score": 0.3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/NASA-Deimos-MarsMoon-20090221.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "ESA",
+    "category": "astronomy",
+    "score": 5.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/ESA_Patch_2026.svg/330px-ESA_Patch_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Earth",
+    "category": "astronomy",
+    "score": 100.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Meteosat-12-fci-march-equinox-2025-noon.jpg/3840px-Meteosat-12-fci-march-equinox-2025-noon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Elon Musk",
+    "category": "astronomy",
+    "score": 13.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Enceladus",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/PIA17202_-_Approaching_Enceladus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Eris",
+    "category": "astronomy",
+    "score": 1.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Eris_and_moon_Dysnomia_JWST_NIRCam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Europa",
+    "category": "astronomy",
+    "score": 24.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Europa_-_Perijove_45_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Event Horizon",
+    "category": "astronomy",
+    "score": 0.7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Black_hole_details.svg/960px-Black_hole_details.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Exoplanet",
+    "category": "astronomy",
+    "score": 0.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hr8799_orbit_hd.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Falcon 9",
+    "category": "astronomy",
+    "score": 0.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Falcon_9_logo.svg/250px-Falcon_9_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Gaganyaan",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gaganyaan_vehicle_used_for_TVD1_mission.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Galileo Galilei",
+    "category": "astronomy",
+    "score": 0.3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-1920px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Ganymede",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ganymede_-_Perijove_34_Composite.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Gemini",
+    "category": "astronomy",
+    "score": 100.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gemini_IAU.svg/960px-Gemini_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Gravitational Waves",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Warped_Space_and_Time_Around_Colliding_Black_Holes_%28Courtesy_Caltech-MIT-LIGO_Laboratory%2C_produced_by_SXS_project%29.webm/3840px--Warped_Space_and_Time_Around_Colliding_Black_Holes_%28Courtesy_Caltech-MIT-LIGO_Laboratory%2C_produced_by_SXS_project%29.webm.jpg"
+  },
+  {
+    "word": "Gravity",
+    "category": "astronomy",
+    "score": 11.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg/3840px-UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Great Red Spot",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Jupiter_-_Great_Red_Spot_-_PJ7-60_61_62_-_Balanced_%2849803032983%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Halley's Comet",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lspn_comet_halley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Hubble Space Telescope",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/3840px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "ISRO",
+    "category": "astronomy",
+    "score": 1.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/330px-Indian_Space_Research_Organisation_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "International Space Station",
+    "category": "astronomy",
+    "score": 0.4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg/3840px-The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Io",
+    "category": "astronomy",
+    "score": 16.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Io_highest_resolution_true_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "James Webb Space Telescope",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Juno",
+    "category": "astronomy",
+    "score": 2.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Juno_spacecraft_model_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Jupiter",
+    "category": "astronomy",
+    "score": 10.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter_OPAL_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Kalpana Chawla",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kalpana_Chawla%2C_NASA_photo_portrait_in_orange_suit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Kuiper Belt",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kuiper_belt_plot_objects_of_outer_solar_system.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Large Magellanic Cloud",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Eso1021d.jpg/3840px-Eso1021d.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Leo",
+    "category": "astronomy",
+    "score": 4.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Leo_IAU.svg/960px-Leo_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Light Year",
+    "category": "astronomy",
+    "score": 1.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/12lightyears.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Lunar Eclipse",
+    "category": "astronomy",
+    "score": 39.8,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Lunar_eclipse_04-15-2014_by_R_Jay_GaBany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Makemake",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Makemake_and_its_moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Mangalyaan",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Mars",
+    "category": "astronomy",
+    "score": 44.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Mars Rover",
+    "category": "astronomy",
+    "score": 0.9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/3840px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Mercury",
+    "category": "astronomy",
+    "score": 13.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Meteor Shower",
+    "category": "astronomy",
+    "score": 19.9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Meteor_shower_in_the_Chilean_Desert_%28annotated%29_%28potw2227b%29.jpg/3840px-Meteor_shower_in_the_Chilean_Desert_%28annotated%29_%28potw2227b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Milky Way",
+    "category": "astronomy",
+    "score": 1.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ESO-VLT-Laser-phot-33a-07.jpg/3840px-ESO-VLT-Laser-phot-33a-07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Moon",
+    "category": "astronomy",
+    "score": 93.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Moon Landing",
+    "category": "astronomy",
+    "score": 2.8,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Moon_Soft_Landings.svg/3840px-Moon_Soft_Landings.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "NASA",
+    "category": "astronomy",
+    "score": 50.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/330px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Nebula",
+    "category": "astronomy",
+    "score": 2.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Trifid_Nebula_by_Deddy_Dayag.jpg/3840px-Trifid_Nebula_by_Deddy_Dayag.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Neil Armstrong",
+    "category": "astronomy",
+    "score": 0.9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Neil_Armstrong_pose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Neptune",
+    "category": "astronomy",
+    "score": 3.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Neptune_Voyager2_color_calibrated.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Neutron Star",
+    "category": "astronomy",
+    "score": 0.3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Moving_heart_of_the_Crab_Nebula.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "New Horizons",
+    "category": "astronomy",
+    "score": 1.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/New_Horizons_spacecraft_model_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Oort Cloud",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/PIA17046_-_Voyager_1_Goes_Interstellar.jpg/3840px-PIA17046_-_Voyager_1_Goes_Interstellar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Orbit",
+    "category": "astronomy",
+    "score": 7.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Animation_of_Orbital_eccentricity.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Orion",
+    "category": "astronomy",
+    "score": 7.3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Orion_IAU.svg/960px-Orion_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Pegasus",
+    "category": "astronomy",
+    "score": 2.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lakonian_Black-Figure_Kylix%3B_detached_fragments.jpg/3840px-Lakonian_Black-Figure_Kylix%3B_detached_fragments.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Perseverance Rover",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Perseverance-Selfie-at-Rochette-Horizontal-V2.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Phobos",
+    "category": "astronomy",
+    "score": 0.3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Phobos_colour_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Planetarium",
+    "category": "astronomy",
+    "score": 1.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Belgrade_Planetarium_theatre_day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Pluto",
+    "category": "astronomy",
+    "score": 4.8,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pluto_in_True_Color_-_High-Res.png/3840px-Pluto_in_True_Color_-_High-Res.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Polaris",
+    "category": "astronomy",
+    "score": 5.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ursa_Minor_constellation_map.svg/250px-Ursa_Minor_constellation_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Proxima Centauri",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/New_shot_of_Proxima_Centauri%2C_our_nearest_neighbour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Rakesh Sharma",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Rakesh_Sharma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Red Giant",
+    "category": "astronomy",
+    "score": 0.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/HR-diag-no-text-2.svg/960px-HR-diag-no-text-2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Rigel",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orion_constellation_map.svg/330px-Orion_constellation_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Rings of Saturn",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/PIA17172_Saturn_eclipse_mosaic_bright_crop.jpg/3840px-PIA17172_Saturn_eclipse_mosaic_bright_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Rocket",
+    "category": "astronomy",
+    "score": 29.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Soyuz_TMA-9_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Sagittarius",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sagittarius_IAU.svg/960px-Sagittarius_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Satellite",
+    "category": "astronomy",
+    "score": 6.9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Two_3U_CubeSats.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Saturn",
+    "category": "astronomy",
+    "score": 6.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/3840px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Scorpius",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Scorpius_IAU.svg/960px-Scorpius_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Shooting Star",
+    "category": "astronomy",
+    "score": 0.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Meteoroid_meteor_meteorite.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Sirius",
+    "category": "astronomy",
+    "score": 2.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Major_constellation_map.svg/250px-Canis_Major_constellation_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Solar Eclipse",
+    "category": "astronomy",
+    "score": 81.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Solar_eclipse_1999_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Solar Flare",
+    "category": "astronomy",
+    "score": 0.4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/X_Class_Solar_Flare_Sends_%E2%80%98Shockwaves%E2%80%99_on_The_Sun_%286819094556%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Solar System",
+    "category": "astronomy",
+    "score": 5.4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Solar_System_True_Color_EN.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Sombrero Galaxy",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sombrero_Galaxy_%28heic2506a%29.jpg/3840px-Sombrero_Galaxy_%28heic2506a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Space Race",
+    "category": "astronomy",
+    "score": 0.3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Space Shuttle",
+    "category": "astronomy",
+    "score": 1.3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Space Station",
+    "category": "astronomy",
+    "score": 1.8,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Space_station_size_comparison_as_of_November_2024.svg/1920px-Space_station_size_comparison_as_of_November_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Space Tourism",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Toyohiro-Akiyama-First-Japanese-Person-in-Space-1990.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "SpaceX",
+    "category": "astronomy",
+    "score": 49.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/USA_-_Texas_-_Boca_Chica_-_Starbase_%2851285307187%29.jpg/3840px-USA_-_Texas_-_Boca_Chica_-_Starbase_%2851285307187%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Sputnik",
+    "category": "astronomy",
+    "score": 0.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Starlink",
+    "category": "astronomy",
+    "score": 7.7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Starlink_Logo_2024.svg/960px-Starlink_Logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Starship",
+    "category": "astronomy",
+    "score": 4.7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Modern_Pulsed_Fission_Propulsion_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Stephen Hawking",
+    "category": "astronomy",
+    "score": 2.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Sun",
+    "category": "astronomy",
+    "score": 73.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_Sun_in_white_light.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Sunita Williams",
+    "category": "astronomy",
+    "score": 0.8,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sunita_Williams_in_2018.jpg/3840px-Sunita_Williams_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Sunspot",
+    "category": "astronomy",
+    "score": 0.8,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sunspots_1302_Sep_2011_by_NASA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Supernova",
+    "category": "astronomy",
+    "score": 5.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SN1994D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Taurus",
+    "category": "astronomy",
+    "score": 1.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Taurus_IAU.svg/960px-Taurus_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Telescope",
+    "category": "astronomy",
+    "score": 3.5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/100inchHooker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Titan",
+    "category": "astronomy",
+    "score": 16.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Titan_in_true_color_by_Kevin_M._Gill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Triangulum Galaxy",
+    "category": "astronomy",
+    "score": 0.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg/3840px-VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Triton",
+    "category": "astronomy",
+    "score": 3.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Triton-usgs23-with-frame.jpg/3840px-Triton-usgs23-with-frame.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Universe",
+    "category": "astronomy",
+    "score": 35.0,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hubble_ultra_deep_field.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Uranus",
+    "category": "astronomy",
+    "score": 2.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Ursa Major",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ursa_Major_IAU.svg/960px-Ursa_Major_IAU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Vega",
+    "category": "astronomy",
+    "score": 6.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lyra_constellation_map.svg/250px-Lyra_constellation_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "Venus",
+    "category": "astronomy",
+    "score": 10.8,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Venus_2_Approach_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Voyager 1",
+    "category": "astronomy",
+    "score": 0.6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Voyager 2",
+    "category": "astronomy",
+    "score": 0.4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Whirlpool Galaxy",
+    "category": "astronomy",
+    "score": 0.1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/3840px-Messier51_sRGB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "word": "White Dwarf",
+    "category": "astronomy",
+    "score": 0.3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sirius_A_and_B_Hubble_photo.editted.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Wormhole",
+    "category": "astronomy",
+    "score": 0.7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Einstein-rosen-bridge-model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "word": "Yuri Gagarin",
+    "category": "astronomy",
+    "score": 0.2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Yuri_Gagarin_with_awards_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  }
+]

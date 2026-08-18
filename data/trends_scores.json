@@ -1,0 +1,522 @@
+{
+  "Aditya-L1": {
+    "category": "astronomy",
+    "score": 0.024857954545454544
+  },
+  "Albert Einstein": {
+    "category": "astronomy",
+    "score": 1.1913207547169815
+  },
+  "Aldebaran": {
+    "category": "astronomy",
+    "score": 0.125
+  },
+  "Alpha Centauri": {
+    "category": "astronomy",
+    "score": 0.1
+  },
+  "Andromeda Galaxy": {
+    "category": "astronomy",
+    "score": 0.1489150943396227
+  },
+  "Antares": {
+    "category": "astronomy",
+    "score": 0.5
+  },
+  "Apollo 11": {
+    "category": "astronomy",
+    "score": 1.4772377358490572
+  },
+  "Arcturus": {
+    "category": "astronomy",
+    "score": 0.125
+  },
+  "Artemis": {
+    "category": "astronomy",
+    "score": 100.0
+  },
+  "Asteroid Belt": {
+    "category": "astronomy",
+    "score": 0.09315913649498558
+  },
+  "Astronaut": {
+    "category": "astronomy",
+    "score": 5.25
+  },
+  "Aurora Borealis": {
+    "category": "astronomy",
+    "score": 5.360943396226416
+  },
+  "Betelgeuse": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Big Bang": {
+    "category": "astronomy",
+    "score": 4.061320754716982
+  },
+  "Big Dipper": {
+    "category": "astronomy",
+    "score": 0.22957072921978594
+  },
+  "Black Hole": {
+    "category": "astronomy",
+    "score": 3.5660377358490565
+  },
+  "Blue Origin": {
+    "category": "astronomy",
+    "score": 3.0
+  },
+  "Callisto": {
+    "category": "astronomy",
+    "score": 0.7379059153493119
+  },
+  "Canopus": {
+    "category": "astronomy",
+    "score": 0.09375
+  },
+  "Carl Sagan": {
+    "category": "astronomy",
+    "score": 0.17567151453340138
+  },
+  "Cassini": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Cassiopeia": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Ceres": {
+    "category": "astronomy",
+    "score": 1.09375
+  },
+  "Chandrayaan-1": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Chandrayaan-2": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Chandrayaan-3": {
+    "category": "astronomy",
+    "score": 0.07652357640659531
+  },
+  "Comet": {
+    "category": "astronomy",
+    "score": 8.93490566037736
+  },
+  "Curiosity Rover": {
+    "category": "astronomy",
+    "score": 0.15304715281319062
+  },
+  "Dark Energy": {
+    "category": "astronomy",
+    "score": 1.0030402711323763
+  },
+  "Dark Matter": {
+    "category": "astronomy",
+    "score": 0.8198954614992355
+  },
+  "Deimos": {
+    "category": "astronomy",
+    "score": 0.34375
+  },
+  "ESA": {
+    "category": "astronomy",
+    "score": 5.0
+  },
+  "Earth": {
+    "category": "astronomy",
+    "score": 100.0
+  },
+  "Elon Musk": {
+    "category": "astronomy",
+    "score": 13.236897274633128
+  },
+  "Enceladus": {
+    "category": "astronomy",
+    "score": 0.09375
+  },
+  "Eris": {
+    "category": "astronomy",
+    "score": 1.0625
+  },
+  "Europa": {
+    "category": "astronomy",
+    "score": 24.596863844977065
+  },
+  "Event Horizon": {
+    "category": "astronomy",
+    "score": 0.7379059153493119
+  },
+  "Exoplanet": {
+    "category": "astronomy",
+    "score": 0.5575289138194801
+  },
+  "Falcon 9": {
+    "category": "astronomy",
+    "score": 0.6121886112527625
+  },
+  "Gaganyaan": {
+    "category": "astronomy",
+    "score": 0.06628787878787878
+  },
+  "Galileo Galilei": {
+    "category": "astronomy",
+    "score": 0.2954475471698114
+  },
+  "Ganymede": {
+    "category": "astronomy",
+    "score": 0.24596863844977065
+  },
+  "Gemini": {
+    "category": "astronomy",
+    "score": 100.0
+  },
+  "Gravitational Waves": {
+    "category": "astronomy",
+    "score": 0.1574337121212121
+  },
+  "Gravity": {
+    "category": "astronomy",
+    "score": 11.549999999999999
+  },
+  "Great Red Spot": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Halley's Comet": {
+    "category": "astronomy",
+    "score": 0.1905776515151515
+  },
+  "Hubble Space Telescope": {
+    "category": "astronomy",
+    "score": 0.07147924528301888
+  },
+  "ISRO": {
+    "category": "astronomy",
+    "score": 1.092044025157233
+  },
+  "International Space Station": {
+    "category": "astronomy",
+    "score": 0.3971069182389938
+  },
+  "Io": {
+    "category": "astronomy",
+    "score": 15.987961499235093
+  },
+  "James Webb Space Telescope": {
+    "category": "astronomy",
+    "score": 0.12508867924528305
+  },
+  "Juno": {
+    "category": "astronomy",
+    "score": 2.0
+  },
+  "Jupiter": {
+    "category": "astronomy",
+    "score": 10.0
+  },
+  "Kalpana Chawla": {
+    "category": "astronomy",
+    "score": 0.10380589495155537
+  },
+  "Kuiper Belt": {
+    "category": "astronomy",
+    "score": 0.08285984848484848
+  },
+  "Large Magellanic Cloud": {
+    "category": "astronomy",
+    "score": 0.06628787878787878
+  },
+  "Leo": {
+    "category": "astronomy",
+    "score": 4.0
+  },
+  "Light Year": {
+    "category": "astronomy",
+    "score": 1.639790922998471
+  },
+  "Lunar Eclipse": {
+    "category": "astronomy",
+    "score": 39.80094339622642
+  },
+  "Makemake": {
+    "category": "astronomy",
+    "score": 0.0625
+  },
+  "Mangalyaan": {
+    "category": "astronomy",
+    "score": 0.024857954545454544
+  },
+  "Mars": {
+    "category": "astronomy",
+    "score": 44.0
+  },
+  "Mars Rover": {
+    "category": "astronomy",
+    "score": 0.9182829168791438
+  },
+  "Mercury": {
+    "category": "astronomy",
+    "score": 13.20754716981132
+  },
+  "Meteor Shower": {
+    "category": "astronomy",
+    "score": 19.85534591194969
+  },
+  "Milky Way": {
+    "category": "astronomy",
+    "score": 1.6245283018867926
+  },
+  "Moon": {
+    "category": "astronomy",
+    "score": 93.0
+  },
+  "Moon Landing": {
+    "category": "astronomy",
+    "score": 2.7797484276729567
+  },
+  "NASA": {
+    "category": "astronomy",
+    "score": 50.0
+  },
+  "Nebula": {
+    "category": "astronomy",
+    "score": 1.9855345911949691
+  },
+  "Neil Armstrong": {
+    "category": "astronomy",
+    "score": 0.9265828092243189
+  },
+  "Neptune": {
+    "category": "astronomy",
+    "score": 3.465660377358491
+  },
+  "Neutron Star": {
+    "category": "astronomy",
+    "score": 0.2582670703722592
+  },
+  "New Horizons": {
+    "category": "astronomy",
+    "score": 1.0
+  },
+  "Oort Cloud": {
+    "category": "astronomy",
+    "score": 0.07457386363636363
+  },
+  "Orbit": {
+    "category": "astronomy",
+    "score": 7.0
+  },
+  "Orion": {
+    "category": "astronomy",
+    "score": 7.269739758626554
+  },
+  "Pegasus": {
+    "category": "astronomy",
+    "score": 2.0
+  },
+  "Perseverance Rover": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Phobos": {
+    "category": "astronomy",
+    "score": 0.34375
+  },
+  "Planetarium": {
+    "category": "astronomy",
+    "score": 1.1500000000000001
+  },
+  "Pluto": {
+    "category": "astronomy",
+    "score": 4.765283018867925
+  },
+  "Polaris": {
+    "category": "astronomy",
+    "score": 5.0
+  },
+  "Proxima Centauri": {
+    "category": "astronomy",
+    "score": 0.1
+  },
+  "Rakesh Sharma": {
+    "category": "astronomy",
+    "score": 0.03992534421213668
+  },
+  "Red Giant": {
+    "category": "astronomy",
+    "score": 0.5165341407445184
+  },
+  "Rigel": {
+    "category": "astronomy",
+    "score": 0.25
+  },
+  "Rings of Saturn": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Rocket": {
+    "category": "astronomy",
+    "score": 29.5
+  },
+  "Sagittarius": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Satellite": {
+    "category": "astronomy",
+    "score": 6.949371069182392
+  },
+  "Saturn": {
+    "category": "astronomy",
+    "score": 6.5
+  },
+  "Scorpius": {
+    "category": "astronomy",
+    "score": 0.0
+  },
+  "Shooting Star": {
+    "category": "astronomy",
+    "score": 0.4919372768995413
+  },
+  "Sirius": {
+    "category": "astronomy",
+    "score": 2.5811949685534596
+  },
+  "Solar Eclipse": {
+    "category": "astronomy",
+    "score": 81.22641509433963
+  },
+  "Solar Flare": {
+    "category": "astronomy",
+    "score": 0.412561890192079
+  },
+  "Solar System": {
+    "category": "astronomy",
+    "score": 5.415094339622642
+  },
+  "Sombrero Galaxy": {
+    "category": "astronomy",
+    "score": 0.022727272727272728
+  },
+  "Space Race": {
+    "category": "astronomy",
+    "score": 0.30609430562638124
+  },
+  "Space Shuttle": {
+    "category": "astronomy",
+    "score": 1.3308448070712227
+  },
+  "Space Station": {
+    "category": "astronomy",
+    "score": 1.786981132075472
+  },
+  "Space Tourism": {
+    "category": "astronomy",
+    "score": 0.24596863844977065
+  },
+  "SpaceX": {
+    "category": "astronomy",
+    "score": 49.63836477987423
+  },
+  "Sputnik": {
+    "category": "astronomy",
+    "score": 0.6499846037735851
+  },
+  "Starlink": {
+    "category": "astronomy",
+    "score": 7.652357640659531
+  },
+  "Starship": {
+    "category": "astronomy",
+    "score": 4.673404130545642
+  },
+  "Stephen Hawking": {
+    "category": "astronomy",
+    "score": 1.9855345911949691
+  },
+  "Sun": {
+    "category": "astronomy",
+    "score": 73.0
+  },
+  "Sunita Williams": {
+    "category": "astronomy",
+    "score": 0.7985068842427336
+  },
+  "Sunspot": {
+    "category": "astronomy",
+    "score": 0.8285984848484849
+  },
+  "Supernova": {
+    "category": "astronomy",
+    "score": 4.963836477987423
+  },
+  "Taurus": {
+    "category": "astronomy",
+    "score": 1.0
+  },
+  "Telescope": {
+    "category": "astronomy",
+    "score": 3.5
+  },
+  "Titan": {
+    "category": "astronomy",
+    "score": 16.23393013768486
+  },
+  "Triangulum Galaxy": {
+    "category": "astronomy",
+    "score": 0.006628787878787879
+  },
+  "Triton": {
+    "category": "astronomy",
+    "score": 3.125
+  },
+  "Universe": {
+    "category": "astronomy",
+    "score": 35.0
+  },
+  "Uranus": {
+    "category": "astronomy",
+    "score": 2.1660377358490566
+  },
+  "Ursa Major": {
+    "category": "astronomy",
+    "score": 0.22957072921978594
+  },
+  "Vega": {
+    "category": "astronomy",
+    "score": 6.25
+  },
+  "Venus": {
+    "category": "astronomy",
+    "score": 10.830188679245284
+  },
+  "Voyager 1": {
+    "category": "astronomy",
+    "score": 0.5956603773584908
+  },
+  "Voyager 2": {
+    "category": "astronomy",
+    "score": 0.3693094339622643
+  },
+  "Whirlpool Galaxy": {
+    "category": "astronomy",
+    "score": 0.0946969696969697
+  },
+  "White Dwarf": {
+    "category": "astronomy",
+    "score": 0.2730251886792454
+  },
+  "Wormhole": {
+    "category": "astronomy",
+    "score": 0.7379059153493119
+  },
+  "Yuri Gagarin": {
+    "category": "astronomy",
+    "score": 0.19204090566037743
+  }
+}

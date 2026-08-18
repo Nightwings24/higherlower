@@ -1,0 +1,15 @@
+{
+  "astronomy": [
+    "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune",
+    "Pluto", "Ceres", "Eris", "Makemake",
+    "Moon", "Europa", "Titan", "Ganymede", "Io", "Callisto", "Phobos", "Deimos", "Triton", "Enceladus",
+    "Sun", "Sirius", "Betelgeuse", "Polaris", "Proxima Centauri", "Alpha Centauri", "Rigel", "Vega", "Antares", "Aldebaran", "Arcturus", "Canopus",
+    "Milky Way", "Andromeda Galaxy", "Whirlpool Galaxy", "Sombrero Galaxy", "Triangulum Galaxy", "Large Magellanic Cloud",
+    "Orion", "Ursa Major", "Big Dipper", "Scorpius", "Leo", "Cassiopeia", "Pegasus", "Gemini", "Taurus", "Sagittarius",
+    "Apollo 11", "Voyager 1", "Voyager 2", "Hubble Space Telescope", "James Webb Space Telescope", "International Space Station", "Chandrayaan-3", "Chandrayaan-2", "Chandrayaan-1", "Sputnik", "Curiosity Rover", "Perseverance Rover", "Cassini", "New Horizons", "Starship", "Artemis", "Juno", "Mangalyaan", "Gaganyaan", "Aditya-L1",
+    "NASA", "ISRO", "SpaceX", "ESA", "Blue Origin",
+    "Neil Armstrong", "Yuri Gagarin", "Carl Sagan", "Stephen Hawking", "Albert Einstein", "Elon Musk", "Sunita Williams", "Rakesh Sharma", "Kalpana Chawla", "Galileo Galilei",
+    "Black Hole", "Supernova", "Big Bang", "Solar Eclipse", "Lunar Eclipse", "Meteor Shower", "Aurora Borealis", "Comet", "Asteroid Belt", "Nebula", "Wormhole", "Dark Matter", "Dark Energy", "Exoplanet", "Red Giant", "White Dwarf", "Neutron Star", "Light Year", "Gravity", "Orbit", "Solar System", "Universe", "Space Station", "Rocket", "Satellite", "Telescope", "Astronaut", "Halley's Comet", "Kuiper Belt", "Oort Cloud", "Event Horizon", "Gravitational Waves", "Solar Flare", "Sunspot", "Shooting Star",
+    "Falcon 9", "Starlink", "Space Shuttle", "Mars Rover", "Rings of Saturn", "Great Red Spot", "Space Race", "Moon Landing", "Space Tourism", "Planetarium"
+  ]
+}

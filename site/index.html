@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Higher or Lower — Space Edition</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<main class="split" id="stage">
+
+  <section class="panel panel--left" id="panel-left">
+    <img class="panel-bg" id="left-img" alt="" />
+    <div class="panel-scrim"></div>
+    <div class="panel-content">
+      <p class="word-quote" id="left-name">&nbsp;</p>
+      <p class="has-text">has</p>
+      <p class="big-number" id="left-score">—</p>
+      <p class="metric-caption">estimated search interest <span>· last 12 months, illustrative</span></p>
+    </div>
+    <p class="attribution" id="left-attr"></p>
+  </section>
+
+  <section class="panel panel--right" id="panel-right">
+    <img class="panel-bg" id="right-img" alt="" />
+    <div class="panel-scrim"></div>
+    <div class="panel-content">
+      <p class="word-quote" id="right-name">&nbsp;</p>
+      <p class="has-text">has</p>
+      <div class="guess-buttons" id="guess-buttons">
+        <button class="guess-btn guess-btn--higher" id="btn-higher">
+          <span>Higher</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5l7 8h-4.5v6h-5v-6H5z"/></svg>
+        </button>
+        <button class="guess-btn guess-btn--lower" id="btn-lower">
+          <span>Lower</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19l-7-8h4.5V5h5v6H19z"/></svg>
+        </button>
+      </div>
+      <p class="big-number big-number--right" id="right-score">—</p>
+      <p class="metric-caption">searches than <span id="right-caption-word">—</span></p>
+    </div>
+    <p class="attribution" id="right-attr"></p>
+  </section>
+
+  <div class="vs-wrap">
+    <div class="vs-circle" id="vs-circle">
+      <span class="vs-text" id="vs-text">VS</span>
+      <svg class="vs-icon vs-icon--check" id="vs-check" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12.5l5 5L20 7"/></svg>
+      <svg class="vs-icon vs-icon--cross" id="vs-cross" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19"/></svg>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" aria-live="polite"></div>
+
+  <div class="corner corner--left" id="best-corner">High Score: <span id="best-value">0</span></div>
+  <div class="corner corner--right" id="score-corner">Score: <span id="score-value">0</span></div>
+
+  <div class="float-controls" id="category-chips" role="group" aria-label="Category filter"></div>
+  <div class="float-controls float-controls--right">
+    <button class="icon-btn" id="btn-sound" aria-label="Toggle sound" aria-pressed="true">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 5V4L8 9z"/><path d="M16.5 8.5a5 5 0 0 1 0 7" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+    </button>
+    <button class="icon-btn" id="btn-share" aria-label="Share score">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8a3 3 0 1 0-2.83-4H15a3 3 0 0 0 .09 4.26L8.9 11.7a3 3 0 1 0 0 4.6l6.19 3.44A3 3 0 1 0 16 18l-6.19-3.44a3 3 0 0 0 0-1.12L16 10a3 3 0 0 0 2 .5V8z"/></svg>
+    </button>
+  </div>
+
+</main>
+
+<div class="overlay" id="overlay">
+  <div class="overlay-panel">
+    <p class="overlay-eyebrow">SIGNAL LOST</p>
+    <h2 class="overlay-title" id="overlay-title">Streak broken</h2>
+    <p class="overlay-body" id="overlay-body">You called it right 0 times before the signal flipped.</p>
+    <div class="overlay-scores">
+      <div><span class="overlay-score-num" id="final-score">0</span><span class="overlay-score-label">This run</span></div>
+      <div><span class="overlay-score-num" id="final-best">0</span><span class="overlay-score-label">Best ever</span></div>
+    </div>
+    <div class="overlay-actions">
+      <button class="btn-primary" id="btn-restart">Play again</button>
+      <button class="btn-secondary" id="btn-share-2">Share score</button>
+    </div>
+  </div>
+</div>
+
+<script src="game.js"></script>
+</body>
+</html>
